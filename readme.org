@@ -1,6 +1,6 @@
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
-
+Personal fork from...
 * Miryoku ZMK [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png]]
 
 [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/cover/miryoku-kle-cover-miryoku_zmk.png]]
